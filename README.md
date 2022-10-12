@@ -17,10 +17,6 @@
 Click the button below to join our support group`
    <a href="https://t.me/BalveerUB_Support"><img src="https://img.shields.io/badge/Grup%20Support%3F-Balveer-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-__Repository Created By [DARK SHADOW](DARKSHADOW088)__
-
-
-
 
 ### Deploy to Heroku
 
