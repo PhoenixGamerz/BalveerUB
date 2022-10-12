@@ -35,6 +35,6 @@ Thanks for using our bot 👲
 ```
 
 ## Credits
-   - [DARKSHADOW](https://t.me/DARKSHADOW088)
-   - [TANDAV X](https://t.me/TANDAV_X)
-   - [RISHISUPERYO](https://t.me/RISHISUP3RYO)
+   - [DARKSHADOW](https://t.me/DARKSHADOW088) 💛
+   - [TANDAV X](https://t.me/TANDAV_X) 💙
+   - [RISHISUPERYO](https://t.me/RISHISUP3RYO) 💜
