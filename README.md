@@ -1,5 +1,5 @@
 # Balveer Userbot
-A simple Telegram userbot based on Telethon .
+<i>A Simple Telegram Userbot Based On Pyrogram.</i>
 ![balveer logo](https://te.legra.ph/file/f6eb3a3107d045d8f90c2.jpg)
 
 ### Heroku Deploy
