@@ -10,7 +10,7 @@
     
 
 
-![BALVEER USERBOT](https://telegra.ph/file/4c8543c0a72bbce544069.jpg)
+![BALVEER USERBOT](https://te.legra.ph/file/f6eb3a3107d045d8f90c2.jpg)
 
 ### Group Support 💖💖
 `
