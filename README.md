@@ -22,7 +22,10 @@ Generate Repl From [Here](), This Is A Fully Safe Pyrogram String Session Genera
 
 ## Disclaimer
 ```
-Kindly please don't try to kang this userbot. If you kang it atleast you have to give our team a credit. Else we will take a strict action on it, and it can cause harmful to you.
+Kindly please don't try to kang this userbot.
+If you kang it atleast you have to give our 
+team a credit. Else we will take a strict 
+action on it, and it can cause harmful to you.
 ```
 
 
