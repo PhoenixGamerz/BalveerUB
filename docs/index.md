@@ -10,7 +10,7 @@ Its a small project for educational purpose & timepass, it is based on _Python l
 
 ### Features & ub information
 
-* Tron is built with two pyrogram clients, one is the main userbot and second one is the assistant (bot).
+* Balveer is built with two pyrogram clients, one is the main userbot and second one is the assistant (bot).
 
 
 ### Deployment
