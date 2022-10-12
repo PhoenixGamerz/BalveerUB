@@ -1,40 +1,51 @@
-# Balveer Userbot
-<i>A Simple Telegram Userbot Based On Pyrogram.</i>
-![balveer logo](https://te.legra.ph/file/f6eb3a3107d045d8f90c2.jpg)
+<h2 align="center">Balveer Userbot</h2> 
+# 🇮🇳 BALVEER USERBOT 💝
+# SIMPLE AND NON HACKABLE USERBOT✅
+# MADE BY DARK SHADOW✌💖
+# OWNER : DARK SHADOW 👦
 
-### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/PhoenixGamerz/BalveerUserbot)
-  
-## Support
-   <a href="https://t.me/BalveerUB_Updates"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/BalveerUb_Support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   
-## Inspiration
-   - [Black-Lightning](https://github.com/keinshin/Black-Lightning)
-   - [Catuserbot](https://github.com/TgCatUB/catuserbot)
-   - [DARKCOBRA](https://github.com/DARK-COBRA/DARKCOBRA)
-   
-## Disclaimer
+<p align="center">
+  <a href="https://github.com/PhoenixGamerz/BalveerUserbot">
+    
 
-```
-              YOU ARE FOREWARNED
-Your Telegram account may get banned.   
-BalveerUB or we are not responsible for your account, 
-This bot is intended for the purpose of having fun with some fun commands 
-and group management with some helpfull commands.
 
-If  you ended up spamming groups, getting reported left and right, 
-and you ended up in being fight with Telegram 
-and at the end Telegram Team deleted your account. DON'T BLAME US.
+![BALVEER USERBOT](https://telegra.ph/file/4c8543c0a72bbce544069.jpg)
 
-No personal support will be provided / We won't spoon feed you. 
-If you need help ask in our support group 
-and we or our friends will try to help you.
+### Group Support 💖💖
+`
+Click the button below to join our support group`
+   <a href="https://t.me/BalveerUB_Support"><img src="https://img.shields.io/badge/Grup%20Support%3F-Balveer-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-Thanks for using our bot 👲
-```
+__Repository Created By [DARK SHADOW](DARKSHADOW088)__
 
-## Credits
-   - [DARKSHADOW](https://t.me/DARKSHADOW088) 💛
-   - [TANDAV X](https://t.me/TANDAV_X) 💙
-   - [RISHISUPERYO](https://t.me/RISHISUP3RYO) 💜
+
+
+
+### Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+### String Session 🖇
+`
+Click the button next to create your strings`
+[![repl](https://telegra.ph/file/623446b4c3571f05b9dc2.jpg)](https://replit.com/@GENIUSYOUTUBER/MAHADEV-TORNADO-R3PL?v=1)
+    
+------------------------------------------------
+## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
+
+- `APP_ID`  =  Get this value from my.telegram.org
+- `API_HASH`  =  Get this value from my.telegram.org
+- `STRING_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `LOGGER_ID`  =  Make A Channel And Get it's ID.
+- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+------------
+
+................
+© Special Credit
+....................
+
+
+•DEFENDERS NETWORKS!!!!
+.....................
+
+• MADE WITH 🎉 BY [࿇DARK SHADOW࿇](https://t.me/DARKSHADOW088)
