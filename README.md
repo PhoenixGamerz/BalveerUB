@@ -2,7 +2,7 @@
 # Non-Hackable And Simple.
 # Powerful And Advanced.
 # Pyrogram Based.
-<hr>
+
 A Powerful, Modern And Advanced Userbot Made With Love 💛 And Python 🐍.
 <br>
 <br>
@@ -19,6 +19,11 @@ Generate Repl From [Here](), This Is A Fully Safe Pyrogram String Session Genera
 [DARK SHADOW](https://t.me/DARKSHADOW088) 🖤<br>
 [TANDAV](https://t.me/TANDAV_X) 💙<br>
 [RISHISUPERYO](https://t.me/RISHISUP3RYO) 💜<br>
+
+## Disclaimer
+```
+Kindly please don't try to kang this userbot. If you kang it atleast you have to give our team a credit. Else we will take a strict action on it, and it can cause harmful to you.
+```
 
 
 
