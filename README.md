@@ -14,7 +14,7 @@
 ### Group Support 💖💖
 `
 Click the button below to join our support group`
-   <a href="https://t.me/BalveerUB_Support"><img src="https://img.shields.io/badge/Grup%20Support%3F-Balveer-red?&style=flat-square?&logo=telegram" width=170px></a></p>
+   <a href="https://t.me/Balveer_Support"><img src="https://img.shields.io/badge/Grup%20Support%3F-Balveer-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
 
 ### Deploy to Heroku
@@ -44,4 +44,4 @@ Click the button next to create your strings`
 •DEFENDERS NETWORKS!!!!
 .....................
 
-• MADE WITH 🎉 BY [࿇DARK SHADOW࿇](https://t.me/DARKSHADOW088)
+• MADE WITH 🎉 BY [࿇KRISHNA࿇](https://t.me/xD_Krishna_xD)
