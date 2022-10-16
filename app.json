@@ -12,7 +12,7 @@
     ],
     "repository": "https://github.com/PhoenixGamerz/BalveerUserbot",
     "website": "https://t.me/BalveerUB_Updates",
-    "success_url": "https://t.me/BalveerUB_Support",
+    "success_url": "https://t.me/Balveer_Support",
     "stack": "container",
     "env": {
         "API_ID": {
