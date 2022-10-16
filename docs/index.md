@@ -20,4 +20,4 @@ Its a small project for educational purpose & timepass, it is based on _Python l
 
 ### Contact me 
 
-* Telegram: https:\\t.me\DARKSHADOW088
+* Telegram: https:\\t.me\xD_Krishna_xD
