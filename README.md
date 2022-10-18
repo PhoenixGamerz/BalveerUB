@@ -2,7 +2,7 @@
 # 🇮🇳 BLACK FANTOM USERBOT 💝
 # SIMPLE AND NON HACKABLE USERBOT✅
 # MADE BY DARK SHADOW✌💖
-# OWNER : DARK SHADOW 👦
+# OWNER : ASHMIT 👦
 
 <p align="center">
   <a href="https://github.com/PhoenixGamerz/Black-Fantom">
