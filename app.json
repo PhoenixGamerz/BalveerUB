@@ -1,6 +1,6 @@
 {
-    "name": "Balveer Userbot",
-    "description": "Balveer Is A Multifunctional Telegram Userbot with Custom Settings.",
+    "name": "Black-Fantom Userbot",
+    "description": "Black Fantom Is A Multifunctional Telegram Userbot with Custom Settings.",
     "logo": "https://te.legra.ph/file/f6eb3a3107d045d8f90c2.jpg",
     "keywords": [
         "userbot",
@@ -10,9 +10,9 @@
         "pyrogram",
         "productivity"
     ],
-    "repository": "https://github.com/PhoenixGamerz/BalveerUserbot",
-    "website": "https://t.me/BalveerUB_Updates",
-    "success_url": "https://t.me/Balveer_Support",
+    "repository": "https://github.com/PhoenixGamerz/Black-Fantom",
+    "website": "https://t.me/black_fantom_updates",
+    "success_url": "https://t.me/fantom_support_group",
     "stack": "container",
     "env": {
         "API_ID": {
