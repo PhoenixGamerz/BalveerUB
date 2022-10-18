@@ -484,6 +484,6 @@ async def rmprofile(m: Message, args):
 async def repolink_handler(_, m: Message):
     """ repolink handler for profile plugin """
     await app.send_edit(
-        "BalveerUB Repo: [Press Here](https://github.com/PhoenixGamerz/BalveerUserbot)",
+        "BlackFantomUB Repo: [Press Here](https://github.com/PhoenixGamerz/Black-Fantom)",
         disable_web_page_preview=True
     )
