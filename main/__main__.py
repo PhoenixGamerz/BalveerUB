@@ -109,7 +109,7 @@ async def send_logmessage():
                 [
                     InlineKeyboardButton(
                         text="Support Group",
-                        url="t.me/tronubsupport"
+                        url="t.me/fantom_support_group"
                     )
                 ]
             ]
