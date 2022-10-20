@@ -39,6 +39,6 @@ API_HASH = input("\nEnter API HASH: ")
 
 # create a new pyrogram session
 with Client("tronbot", api_id=API_ID, api_hash=API_HASH) as app:
-  app.send_message("me", f"This Is Your Black Fantom Userbot • [ `SESSION` ]\n\n```{app.export_session_string()}```\n\n⚠️• Don't share this with anyone !!\n\nCreate session online • [ Press Here](https://replit.com/@beastzx18/Tron-Userbot-Session)", disable_web_page_preview=True) 
+  app.send_message("me", f"This Is Your Black Fantom Userbot • [ `SESSION` ]\n\n```{app.export_session_string()}```\n\n⚠️• Don't share this with anyone !!\n\nCreate session online • [ Press Here](https://replit.com/@AshmitOp/BLACK-FANTOM-REPL)", disable_web_page_preview=True) 
   print("\n\nYour String Session Is Successfully Saved In Telegram Saved (Cloud) Messages !! Don't Share It With Anyone!! Anyone having your session can use (hack) your telegram account !")
   
