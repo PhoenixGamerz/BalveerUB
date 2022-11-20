@@ -14,7 +14,7 @@
 ### Group Support 💖💖
 `
 Click the button below to join our support group`
-   <a href="https://t.me/fantom_support_group"><img src="https://img.shields.io/badge/Grup%20Support%3F-BLACKFANTOM-red?&style=flat-square?&logo=telegram" width=170px></a></p>
+   <a href="https://t.me/fantom_support_chat"><img src="https://img.shields.io/badge/Group%20Support%3F-BLACKFANTOM-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
 
 ### Deploy to Heroku
@@ -44,4 +44,4 @@ Click the button next to create your strings`
 •DEFENDERS NETWORKS!!!!
 .....................
 
-• MADE WITH 🎉 BY [࿇ASHMIT࿇](https://t.me/Ashmit4029)
+• MADE WITH 🎉 BY [࿇ASHMIT࿇](https://t.me/Ashmit543)
