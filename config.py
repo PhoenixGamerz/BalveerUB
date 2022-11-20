@@ -7,7 +7,7 @@ import subprocess
         
 
 _PMPERMIT_TEXT = """
-Hey ! This is [Black Fantom](https://t.me/fantom_support_group) Security System.
+Hey ! This is [Black Fantom](https://t.me/fantom_support_chat) Security System.
 **You will be blocked if you spammed my owner's pm**
 Currently My Owner is busy ! So Wait Until He Arrives. 
 And Better Not To Spam His here !
