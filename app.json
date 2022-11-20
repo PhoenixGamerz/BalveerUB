@@ -11,8 +11,8 @@
         "productivity"
     ],
     "repository": "https://github.com/PhoenixGamerz/Black-Fantom",
-    "website": "https://t.me/black_fantom_updates",
-    "success_url": "https://t.me/fantom_support_group",
+    "website": "https://t.me/black_fantom_ub",
+    "success_url": "https://t.me/fantom_support_chat",
     "stack": "container",
     "env": {
         "API_ID": {
