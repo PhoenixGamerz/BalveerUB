@@ -109,7 +109,7 @@ async def send_logmessage():
                 [
                     InlineKeyboardButton(
                         text="Support Group",
-                        url="t.me/fantom_support_group"
+                        url="t.me/fantom_support_chat"
                     )
                 ]
             ]
@@ -136,7 +136,7 @@ async def start_bot():
     await start_userbot()
     if app.VcBot():
         botplugins += app.import_module("main/assistant/modules/plugins/vcplugins/", display_module=True, exclude=app.NoLoad())
-    print("You successfully deployed Tronuserbot, try .ping or .alive commands to test it.")
+    print("You successfully deployed Black Fantom Userbot, try .ping or .alive commands to test it.")
 
     try:
         await send_logmessage()
